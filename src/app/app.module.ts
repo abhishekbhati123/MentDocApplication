@@ -36,7 +36,7 @@ import {BlogComponent} from './blog/blog.component';
 @NgModule({
   declarations: [
     AppComponent,
-    AppRoutingModule,
+    
     IndexComponent,
     TestimonialComponent,
     HeaderComponent,
